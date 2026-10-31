@@ -1,2 +1,3 @@
 # sshcom
-Placeholder repo for the sshcom project
+
+Placeholder package. The `sshcom` name is reserved for a future project.
